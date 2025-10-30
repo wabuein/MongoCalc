@@ -69,7 +69,7 @@ me.wabuein.calc
 Each operation is stored like this:
 
 ```json
-
+{
   "a": 10,
   "b": 5,
   "type": "ADD"
